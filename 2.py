@@ -1,5 +1,0 @@
-timecasa = input('Time da casa: ')
-timefora = input('Time de fora: ')
-golscasa = int(input('Gols time de casa: '))
-golsfora = int(input('Gols time de fora: '))
-print(f'O placar do jogo foi {timecasa} {golscasa}x{golsfora} {timefora}')
