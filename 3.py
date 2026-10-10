@@ -1,0 +1,5 @@
+nome = input('Digite o nome de um jogador: ')
+posicao = input('Digite a posição do jogador: ')
+camisa = int(input('Numero da camisa dele: '))
+gols = int(input('Gols que ele fez: '))
+print(f'{nome}, {posicao}, camisa {camisa}, {gols} gols')
